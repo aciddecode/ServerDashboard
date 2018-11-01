@@ -8,7 +8,7 @@
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
-import Dashboard from './components/Dashboard.vue'
+import Dashboard from './Dashboard.vue'
 
 export default {
   name: 'app',
